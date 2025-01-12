@@ -1,2 +1,10 @@
 # RepoTest
 testing github commands
+# installer git en local
+# créer un repository test dans Github
+# installer free Visual Studio code
+# fonctionnement de Github
+Terminal>new terminal
+VSC: PS C:\Users\said kannich> git init
+Initialized empty Git repository in C:/Users/said kannich/.git/
+PS C:\Users\said kannich> git remote add origin 
